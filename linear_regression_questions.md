@@ -20,3 +20,10 @@
 
 ## 10. What is R2, what does it mean?
 
+## 11. How are linear regressions fit?
+
+## 12. What is least squares?
+
+## 13. What is the linear algebra formula for linear regression?
+
+
