@@ -16,7 +16,7 @@
 
 ## 8. What is low rank decomposition?
 
-## 9. 
+## 9. How do update matrices/ low rank decomposition make LoRA efficient?
 
-## 10. How do update matrices/ low rank decomposition make LoRA efficient?
+## 10. What is the difference between LoRA and LoHA
 

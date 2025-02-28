@@ -10,3 +10,4 @@
 
 ## 5. What tokenizer does BERT use?
 
+## 6. Can you describe the architecture of BERT?
