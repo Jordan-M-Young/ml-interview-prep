@@ -6,7 +6,7 @@
 
 ## 3. What is convolution?
 
-## 4. Why is convolution usefule?
+## 4. Why is convolution useful?
 
 ## 5. What is max pooling? mean pooling?
 
