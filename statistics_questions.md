@@ -26,5 +26,11 @@
 
 ## 13. What is a statistical Interaction?
 
+## 14. What is the law of large numbers
 
+## 15. What is the binomial distribution
+
+## 16. What does it model?
+
+## 17. What is the formula for the binomial distribution?
 
